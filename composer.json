@@ -2,6 +2,7 @@
     "name": "consolidis/tara-payment",
     "description": "Ce SDK permet de simplifier l'adoption et l'utiisation du processeurs de paiement TaraMoney",
     "type": "library",
+    "license": "MIT",
     "require": {
         "guzzlehttp/guzzle": "^7.10"
     },
